@@ -1,1 +1,5 @@
-# AI-Powered-Hyper-Personalisation
+AI-based customer segmentation and generative AI are changing the meaning of marketing in a profoundly positive way by facilitating hyper-personalized marketing uses at large scale, in part due to the ability to combine objective demographic and behavioural data with modern artificial intelligence techniques (e.g., clustering algorithms, transformer-based models) to develop increasingly precise audience profiles. 
+
+In generative AI, such as product genres and ad creatives, to customize dynamic and unique content and optimize engagement and return on investment (ROI). Today's leading organizations, including Netflix and Amazon, use this type of technology to deliver innovative and personalized experiences for customers. However, concerns surrounding AI bias, ethical considerations of generative class type technologies, and AI interpretability need to be addressed with a transparent AI framework and effective governance policy. 
+
+The integration of AI algorithms for segmentation coupled with generative AI allows businesses to create greater levels of personalization, evolve in product innovation, and challenge traditional interactions with customers to redefine the way business is done in the future of AI-powered marketing. 
